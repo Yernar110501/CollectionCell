@@ -13,10 +13,13 @@
 		AEE27DC72BD05048004DF2FA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AEE27DC52BD05048004DF2FA /* Main.storyboard */; };
 		AEE27DC92BD0504A004DF2FA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AEE27DC82BD0504A004DF2FA /* Assets.xcassets */; };
 		AEE27DCC2BD0504A004DF2FA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AEE27DCA2BD0504A004DF2FA /* LaunchScreen.storyboard */; };
+<<<<<<< HEAD
 		AEE27DD72BD05155004DF2FA /* CollectionTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEE27DD52BD05155004DF2FA /* CollectionTableViewCell.swift */; };
 		AEE27DD82BD05155004DF2FA /* CollectionTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = AEE27DD62BD05155004DF2FA /* CollectionTableViewCell.xib */; };
 		AEE27DDB2BD0531A004DF2FA /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEE27DD92BD0531A004DF2FA /* MyCollectionViewCell.swift */; };
 		AEE27DDC2BD0531A004DF2FA /* MyCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = AEE27DDA2BD0531A004DF2FA /* MyCollectionViewCell.xib */; };
+=======
+>>>>>>> a5a6d23faacd9c4e4d52ec58496ec2e6190fe18f
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,10 +31,13 @@
 		AEE27DC82BD0504A004DF2FA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AEE27DCB2BD0504A004DF2FA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AEE27DCD2BD0504A004DF2FA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+<<<<<<< HEAD
 		AEE27DD52BD05155004DF2FA /* CollectionTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionTableViewCell.swift; sourceTree = "<group>"; };
 		AEE27DD62BD05155004DF2FA /* CollectionTableViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = CollectionTableViewCell.xib; sourceTree = "<group>"; };
 		AEE27DD92BD0531A004DF2FA /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
 		AEE27DDA2BD0531A004DF2FA /* MyCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MyCollectionViewCell.xib; sourceTree = "<group>"; };
+=======
+>>>>>>> a5a6d23faacd9c4e4d52ec58496ec2e6190fe18f
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,8 +70,11 @@
 		AEE27DBE2BD05048004DF2FA /* CollectionCell */ = {
 			isa = PBXGroup;
 			children = (
+<<<<<<< HEAD
 				AEE27DD42BD050E9004DF2FA /* TableCell */,
 				AEE27DD32BD050D8004DF2FA /* CollectionCell */,
+=======
+>>>>>>> a5a6d23faacd9c4e4d52ec58496ec2e6190fe18f
 				AEE27DBF2BD05048004DF2FA /* AppDelegate.swift */,
 				AEE27DC12BD05048004DF2FA /* SceneDelegate.swift */,
 				AEE27DC32BD05048004DF2FA /* ViewController.swift */,
@@ -77,6 +86,7 @@
 			path = CollectionCell;
 			sourceTree = "<group>";
 		};
+<<<<<<< HEAD
 		AEE27DD32BD050D8004DF2FA /* CollectionCell */ = {
 			isa = PBXGroup;
 			children = (
@@ -95,6 +105,8 @@
 			path = TableCell;
 			sourceTree = "<group>";
 		};
+=======
+>>>>>>> a5a6d23faacd9c4e4d52ec58496ec2e6190fe18f
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -153,11 +165,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+<<<<<<< HEAD
 				AEE27DDC2BD0531A004DF2FA /* MyCollectionViewCell.xib in Resources */,
 				AEE27DCC2BD0504A004DF2FA /* LaunchScreen.storyboard in Resources */,
 				AEE27DC92BD0504A004DF2FA /* Assets.xcassets in Resources */,
 				AEE27DC72BD05048004DF2FA /* Main.storyboard in Resources */,
 				AEE27DD82BD05155004DF2FA /* CollectionTableViewCell.xib in Resources */,
+=======
+				AEE27DCC2BD0504A004DF2FA /* LaunchScreen.storyboard in Resources */,
+				AEE27DC92BD0504A004DF2FA /* Assets.xcassets in Resources */,
+				AEE27DC72BD05048004DF2FA /* Main.storyboard in Resources */,
+>>>>>>> a5a6d23faacd9c4e4d52ec58496ec2e6190fe18f
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -169,10 +187,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				AEE27DC42BD05048004DF2FA /* ViewController.swift in Sources */,
+<<<<<<< HEAD
 				AEE27DDB2BD0531A004DF2FA /* MyCollectionViewCell.swift in Sources */,
 				AEE27DC02BD05048004DF2FA /* AppDelegate.swift in Sources */,
 				AEE27DC22BD05048004DF2FA /* SceneDelegate.swift in Sources */,
 				AEE27DD72BD05155004DF2FA /* CollectionTableViewCell.swift in Sources */,
+=======
+				AEE27DC02BD05048004DF2FA /* AppDelegate.swift in Sources */,
+				AEE27DC22BD05048004DF2FA /* SceneDelegate.swift in Sources */,
+>>>>>>> a5a6d23faacd9c4e4d52ec58496ec2e6190fe18f
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

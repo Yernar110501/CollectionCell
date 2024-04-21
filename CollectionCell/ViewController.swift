@@ -9,6 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
+<<<<<<< HEAD
     @IBOutlet var table: UITableView!
     
     var model = [Model]()
@@ -23,11 +24,17 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         table.delegate = self
         table.dataSource = self
+=======
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view.
+>>>>>>> a5a6d23faacd9c4e4d52ec58496ec2e6190fe18f
     }
 
 
 }
 
+<<<<<<< HEAD
 extension ViewController: UITableViewDelegate, UITableViewDataSource {
     func tableView(_ tableView: UITableView, numberOfRowsInSection section: Int) -> Int {
         return model.count
@@ -50,3 +57,5 @@ struct Model {
     let text: String
     let imageName: String
 }
+=======
+>>>>>>> a5a6d23faacd9c4e4d52ec58496ec2e6190fe18f
